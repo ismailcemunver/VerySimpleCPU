@@ -1,2 +1,2 @@
 # VerySimpleCPU
-For my term project in CSE 224 Introduction to Digital Systems Course, I made a VerySimpleCPU Code Using Instruction Set in the http://www.cpu.tc/rtl/. I Have Used Verilog For My Design. My Design Aims To Do All The Arithmetic Instructions In The Given Website.
+For my term project in CSE 224 Introduction to Digital Systems Course, I made a VerySimpleCPU Code Using Instruction Set in the http://www.cpu.tc/rtl/. I Have Used Verilog For My Design. My Design Aims To Do All The Arithmetic Instructions In The Given Website. To Test the Code, You Can Put design.v and tb.v to the https://www.edaplayground.com/ and add $dumpfile("dump.vcd"); $dumpvars; this line under the initial begin in tb.v 
